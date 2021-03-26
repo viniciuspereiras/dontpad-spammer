@@ -10,6 +10,7 @@ Python script that spam in dontpad pages any payload that you want.
 ```bash
 git clone https://github.com/viniciuspereiras/dontpad-spammer/ 
 cd dontpad-spammer 
+pip install -r requirements.txt
 ```
 
 ```bash
