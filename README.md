@@ -6,13 +6,14 @@
 ![alt text](https://github.com/viniciuspereiras/dontpad-spammer/blob/main/print.png)
 
 Python script that spam in dontpad pages any payload that you want.
-# Download and Usage:
+# Download and usage:
+- Download:
 ```bash
 git clone https://github.com/viniciuspereiras/dontpad-spammer/ 
 cd dontpad-spammer 
 pip install -r requirements.txt
 ```
-
+- Usage:
 ```bash
 python3 dpspam.py <wordlist> <payload>
 ```
