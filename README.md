@@ -3,7 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/viniciuspereiras/dontpad-spammer)](https://github.com/viniciuspereiras/dontpad-spammer/network)
 
 # dontpad-spammer
-![alt text](https://github.com/viniciuspereiras/dontpad-spammer/blob/main/print.png)
+![alt text](https://github.com/viniciuspereiras/dontpad-spammer/blob/main/banner.png)
 
 Python script that spam in dontpad pages any payload that you want.
 # Download and usage:
