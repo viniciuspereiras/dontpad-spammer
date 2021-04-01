@@ -15,6 +15,6 @@ pip install -r requirements.txt
 ```
 - Usage:
 ```bash
-python3 dpspam.py <wordlist> <payload>
+python3 dpspam.py <wordlist> <payload> <number of threads>
 ```
 (write your payload in a file)
